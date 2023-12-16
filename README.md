@@ -10,16 +10,14 @@
 # DOS/DDOS attacks are the first officially recognized class of attacks and were first used in the mid-1970s.
 ![DDoSAttack-3346572643](https://github.com/xPloits3c/AnonSecIta-DDoS/assets/153435050/43ea421a-fef1-4a21-ace5-e29652688979)
 
-💣 Layer7
-- L7 DDoS (for Layer 7)
+💣 [+] Layer7 L7 DDoS (for Layer 7)
 - This type of attack directly targets applications.
 - The goal is not to "shut down" the network, but the service itself, flooding it with requests.
 - These tools target layer 7 of the OSI model, where Internet requests such as HTTP are established.
 - By using an HTTP flood type of attack to overwhelm a target with HTTP GET and POST requests.
 - An attacker can launch attack traffic that is difficult to distinguish from harmless requests from regular visitors.
-- 
-🧨 Layer4
-- L4 DDoS (referred to as OSI Model Layer 4).
+ 
+🧨 [+] Layer4 L4 DDoS (referred to as OSI Model Layer 4).
 - This category includes all those attacks that, for example, use malformed packets (tcp, syn and ack).
 - Further down the protocol stack, these tools use protocols such as UDP to send large volumes of traffic to a designated server, such as during a UDP flood event.
 - While often ineffective individually, these attacks typically take the form of DDoS attacks where the effect is enhanced by additional attacking machines.
@@ -29,7 +27,7 @@
 
 # How to use
 
-git clone https://github.com/xPloits3c/AnonSecIta-DDoS.git
-cd AnonSecIta-DDoS
-python3 anonsecita.DDoS.py
+- git clone https://github.com/xPloits3c/AnonSecIta-DDoS.git
+- cd AnonSecIta-DDoS
+- python3 anonsecita.DDoS.py
 
