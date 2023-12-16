@@ -31,3 +31,6 @@
 - cd AnonSecIta-DDoS
 - python3 anonsecita.DDoS.py
 
+# If u Like the project, leave a star on the repository!
+![github_logo-602056228](https://github.com/xPloits3c/AnonSecIta-DDoS/assets/153435050/a39d6f76-88ff-4d55-ab63-e38a08e0d609)
+
