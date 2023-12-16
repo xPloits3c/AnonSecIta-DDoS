@@ -17,7 +17,7 @@
 - By using an HTTP flood type of attack to overwhelm a target with HTTP GET and POST requests.
 - An attacker can launch attack traffic that is difficult to distinguish from harmless requests from regular visitors.
  
-# 🧨 Layer4 L4 DDoS (referred to as OSI Model Layer 4).
+# 🧨 Layer4 L4 DDoS (UDP-RAW-TCP-SYN).
 - This category includes all those attacks that, for example, use malformed packets (tcp, syn and ack).
 - Further down the protocol stack, these tools use protocols such as UDP to send large volumes of traffic to a designated server, such as during a UDP flood event.
 - While often ineffective individually, these attacks typically take the form of DDoS attacks where the effect is enhanced by additional attacking machines.
