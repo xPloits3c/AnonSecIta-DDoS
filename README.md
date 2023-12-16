@@ -3,9 +3,9 @@
 
 (Programming Language - Python 3)
 # Please Don't Attack websites without the owners consent.
-⚠️ The use of anonsec to attack targets without prior mutual consent is illegal.
-⚠️ It is the responsibility of the end user to comply with all applicable local, state, and federal laws.
-💢 The developers assume no responsibility and are not responsible for any abuse or damage caused by this program.
+- ⚠️ The use of anonsec to attack targets without prior mutual consent is illegal.
+- ⚠️ It is the responsibility of the end user to comply with all applicable local, state, and federal laws.
+- 💢 The developers assume no responsibility and are not responsible for any abuse or damage caused by this program.
 
 # DOS/DDOS attacks are the first officially recognized class of attacks and were first used in the mid-1970s.
 ![DDoSAttack-3346572643](https://github.com/xPloits3c/AnonSecIta-DDoS/assets/153435050/43ea421a-fef1-4a21-ace5-e29652688979)
