@@ -21,7 +21,8 @@
 - This category includes all those attacks that, for example, use malformed packets (tcp, syn and ack).
 - Further down the protocol stack, these tools use protocols such as UDP to send large volumes of traffic to a designated server, such as during a UDP flood event.
 - While often ineffective individually, these attacks typically take the form of DDoS attacks where the effect is enhanced by additional attacking machines.
-- ![anonsecitaddos l7l4](https://github.com/xPloits3c/AnonSecIta-DDoS/assets/153435050/f86b3e0e-f533-451c-adb0-484537d8c2d0)
+
+![anonsecitaddos l7l4](https://github.com/xPloits3c/AnonSecIta-DDoS/assets/153435050/f86b3e0e-f533-451c-adb0-484537d8c2d0)
 ![dattackproxy](https://github.com/xPloits3c/AnonSecIta-DDoS/assets/153435050/085d6db6-1434-4f01-87de-069079c151ab)
 
 # How to use
