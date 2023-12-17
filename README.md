@@ -1,4 +1,5 @@
 ![anonsecitalogo](https://github.com/xPloits3c/AnonSecIta-DDoS/assets/153435050/75480311-8587-4ca2-9ebb-b79ef697e6d6)
+[![Github Stars](https://img.shields.io/github/stars/xPloits3c/AnonSecIta-DDoS.svg?style=social&label=Stars)](https://github.com/xPloits3c/AnonSecIta-DDoS/)
 # DDoS L7 L4
 - [+] Programming Language - Python 3
 - [+] PROXY List Updated 12/2023
