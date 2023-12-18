@@ -6,7 +6,7 @@
 - [i] Programming Language - Python 3
 - [i] Proxy List Updated
 
-# Please Don't Attack websites without the owners consent.
+# Don't Attack websites without the owners consent.
 - ⚠️ The use of this tool to attack targets without prior mutual consent is illegal.
 - ⚠️ It is the responsibility of the end user to comply with all applicable local, state, and federal laws.
 - 💢 The developers assume no responsibility and are not responsible for any abuse or damage caused by this program.
