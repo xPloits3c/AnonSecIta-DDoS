@@ -2,8 +2,8 @@
 [![Github Stars](https://img.shields.io/github/stars/xPloits3c/AnonSecIta-DDoS.svg?style=social&label=Stars)](https://github.com/xPloits3c/AnonSecIta-DDoS/)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/AnonSecIta.svg?style=social&label=Follow)](https://twitter.com/AnonSecIta/)
 # DDoS L7 L4
-- [+] Programming Language - Python 3
-- [+] PROXY List Updated 12/2023
+- [i] Programming Language - Python 3
+- [i] Proxy List Updated
 
 # Please Don't Attack websites without the owners consent.
 - ⚠️ The use of this tool to attack targets without prior mutual consent is illegal.
