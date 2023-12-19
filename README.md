@@ -1,5 +1,5 @@
 ![anonsecitalogo](https://github.com/xPloits3c/AnonSecIta-DDoS/assets/153435050/75480311-8587-4ca2-9ebb-b79ef697e6d6)
-[![release v1.0 ](https://img.shields.io/badge/release-v1.0-green.svg?style=flat-square)](https://github.com/xPloits3c/AnonSecIta-DDoS/releases/)
+[![release v1.0 ](https://img.shields.io/badge/release-v1.1-green.svg?style=flat-square)](https://github.com/xPloits3c/AnonSecIta-DDoS/releases/)
 [![Github Stars](https://img.shields.io/github/stars/xPloits3c/AnonSecIta-DDoS.svg?style=social&label=Stars)](https://github.com/xPloits3c/AnonSecIta-DDoS/)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/AnonSecIta.svg?style=social&label=Follow)](https://twitter.com/AnonSecIta/)
 # DDoS Tool (L7 L4)
