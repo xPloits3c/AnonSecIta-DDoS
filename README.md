@@ -1,7 +1,8 @@
-![anonsecitalogo](https://github.com/xPloits3c/AnonSecIta-DDoS/assets/153435050/75480311-8587-4ca2-9ebb-b79ef697e6d6)
-[![release v1.0 ](https://img.shields.io/badge/release-v1.1-green.svg?style=flat-square)](https://github.com/xPloits3c/AnonSecIta-DDoS/releases/)
-[![Github Stars](https://img.shields.io/github/stars/xPloits3c/AnonSecIta-DDoS.svg?style=social&label=Stars)](https://github.com/xPloits3c/AnonSecIta-DDoS/)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/AnonSecIta.svg?style=social&label=Follow)](https://twitter.com/AnonSecIta/)
+![revoltlogo](https://github.com/xPloits3c/revolt/assets/153435050/ea41babb-e41b-4dc9-8fdc-3bbf08f11a8f)
+[![release v1.0 ](https://img.shields.io/badge/release-v1.0-green.svg?style=flat-square)](https://github.com/xPloits3c/revolt/releases/)
+[![Github Stars](https://img.shields.io/github/stars/xPloits3c/revolt.svg?style=social&label=Stars)](https://github.com/xPloits3c/Revolt/)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/AnonSecIta.svg?style=social&label=AnonSecIta)](https://twitter.com/AnonSecIta/)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/ANOVNI1.svg?style=social&label=ANOVNI1)](https://twitter.com/ANOVNI1/)
 # DDoS Tool (L7 L4)
 
 - Programming Language - Python 3
