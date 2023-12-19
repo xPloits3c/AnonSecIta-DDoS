@@ -4,8 +4,8 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/AnonSecIta.svg?style=social&label=Follow)](https://twitter.com/AnonSecIta/)
 # DDoS Tool (L7 L4)
 
-- [i] Programming Language - Python 3
-- [i] Proxy List Updated
+- Programming Language - Python 3
+- Proxy List Updated
 
 # Don't Attack websites without the owners consent.
 - ⚠️ The use of this tool to attack targets without prior mutual consent is illegal.
