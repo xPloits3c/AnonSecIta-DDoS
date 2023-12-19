@@ -223,15 +223,15 @@ def logo():
 
                      ::: AVVISO !!! :::
 
-[✫] L'uso di questo strumento per attaccare gli obiettivi 
-senza il consenso reciproco è illegale.
+[✫] L'uso di questo strumento per attaccare
+gli obiettivi senza il consenso reciproco è illegale.
 
-[✫] Gli sviluppatori non si assumono alcuna responsabilità
-e non sono responsabili per qualsiasi uso improprio
- o danno causato da questo programma.
+[✫] Gli sviluppatori non si assumono alcuna
+responsabilità e non sono responsabili per qualsiasi
+uso improprio o danno causato da questo programma.
 
-[✫] E' responsabilità dell'utente finale obbedire a tutte le leggi locali,
-statali e federali applicabili.
+[✫] E' responsabilità dell'utente finale obbedire a
+tutte le leggi locali,statali e federali applicabili.
 
 ✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫
 
